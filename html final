@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Memory Care Companion - Helping individuals with Alzheimer's track daily activities and support caregivers.">
+    <title>Memory Care Companion</title>
+    <link rel="stylesheet" href="styles.css"> <!-- Link to external CSS file -->
+</head>
+<body>
+    <!-- Header Section -->
+    <header>
+        <h1>Memory Care Companion</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Home</a></li>
+                <li><a href="tracker.html">Daily Tracker</a></li>
+                <li><a href="resources.html">Resources</a></li>
+                <li><a href="contact.html">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+    
+    <!-- Main Content Section -->
+    <main>
+        <section id="intro">
+            <h2>Welcome to Memory Care Companion</h2>
+            <p>This platform helps individuals with Alzheimer's and their caregivers manage daily activities effectively.</p>
+            <img src="banner.jpg" alt="Memory Care Support Image">
+        </section>
+        
+        <section id="features">
+            <h2>Key Features</h2>
+            <ul>
+                <li>Daily activity tracking</li>
+                <li>Helpful caregiving resources</li>
+                <li>Support and community connections</li>
+            </ul>
+        </section>
+    </main>
+    
+    <!-- Sidebar Section -->
+    <aside>
+        <h3>Caregiver Tips</h3>
+        <p>Remember to maintain a consistent routine for your loved one.</p>
+    </aside>
+    
+    <!-- Footer Section -->
+    <footer>
+        <p>&copy; 2025 Memory Care Companion | <a href="contact.html">Contact Us</a></p>
+    </footer>
+</body>
+</html>
